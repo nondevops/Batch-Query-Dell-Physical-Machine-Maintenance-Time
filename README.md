@@ -10,9 +10,10 @@
 
 # 使用方法
 ```
-1. 打开 sn.txt, 把需要查维保时间的服务器序列号整理后放在此文件中,一行一个序列号;
-2. 在带有python环境的机器上执行 new_dell_srv_exp.py;
-3. 等待脚本执行完毕, 结果输出在 snlist.txt;
+克隆该仓库, git clone https://github.com/nondevops/Batch-Query-Dell-Physical-Machine-Maintenance-Time.git ;
+打开 sn.txt, 把需要查维保时间的服务器序列号整理后放在此文件中,一行一个序列号;
+在带有python环境的机器上执行 new_dell_srv_exp.py;
+等待脚本执行完毕, 结果输出在 snlist.txt;
 ```
 
 # 注意事项
